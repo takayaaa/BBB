@@ -565,6 +565,7 @@ header {
   -webkit-animation: fall 10s infinite linear;
           animation: fall 10s infinite linear;
   padding: 60px 0;
+  background-size: auto;
 }
 
 @-webkit-keyframes fall {
