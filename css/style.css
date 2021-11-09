@@ -561,7 +561,7 @@ header {
 }
 
 #summary {
-  background: url(/img/bg.gif) repeat;
+  background: url(../img/bg.gif) repeat;
   -webkit-animation: fall 10s infinite linear;
           animation: fall 10s infinite linear;
   padding: 60px 0;
